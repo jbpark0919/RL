@@ -1,2 +1,1 @@
-# RL
-# RL
+# SARSA, Q-learning Exploration
